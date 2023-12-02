@@ -1,0 +1,14 @@
+C:\Users\ahmed\Desktop\taskday3\taskday3\taskday3\bin\Debug\net6.0\taskday3.exe
+C:\Users\ahmed\Desktop\taskday3\taskday3\taskday3\bin\Debug\net6.0\taskday3.deps.json
+C:\Users\ahmed\Desktop\taskday3\taskday3\taskday3\bin\Debug\net6.0\taskday3.runtimeconfig.json
+C:\Users\ahmed\Desktop\taskday3\taskday3\taskday3\bin\Debug\net6.0\taskday3.dll
+C:\Users\ahmed\Desktop\taskday3\taskday3\taskday3\bin\Debug\net6.0\taskday3.pdb
+C:\Users\ahmed\Desktop\taskday3\taskday3\taskday3\obj\Debug\net6.0\taskday3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Desktop\taskday3\taskday3\taskday3\obj\Debug\net6.0\taskday3.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\taskday3\taskday3\taskday3\obj\Debug\net6.0\taskday3.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\taskday3\taskday3\taskday3\obj\Debug\net6.0\taskday3.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\taskday3\taskday3\taskday3\obj\Debug\net6.0\taskday3.dll
+C:\Users\ahmed\Desktop\taskday3\taskday3\taskday3\obj\Debug\net6.0\refint\taskday3.dll
+C:\Users\ahmed\Desktop\taskday3\taskday3\taskday3\obj\Debug\net6.0\taskday3.pdb
+C:\Users\ahmed\Desktop\taskday3\taskday3\taskday3\obj\Debug\net6.0\taskday3.genruntimeconfig.cache
+C:\Users\ahmed\Desktop\taskday3\taskday3\taskday3\obj\Debug\net6.0\ref\taskday3.dll
